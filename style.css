@@ -95,10 +95,10 @@ body {
 
 .item-div1 {
 	
-	margin: 10px;
+	margin: 0.3rem;
 	/*background-color: green;*/
 	grid-column: 1 / -1;
-	padding: 10px;
+	padding: 0.3rem;
 
 }
 
