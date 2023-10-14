@@ -25,6 +25,7 @@ body {
   grid-template-areas:
   'a b';
    height: 95vh;
+	gap: 20px;
 	
 
 }
