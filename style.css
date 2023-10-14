@@ -1,4 +1,14 @@
 
+body {
+	
+	background-image: url(img/back.jpg);
+	background-position: center center;      
+	background-repeat: no-repeat;      
+	background-attachment: fixed;      
+	background-size: cover;
+	
+		
+}
 
 ::selection {
   background-color: #126B81;
@@ -7,17 +17,6 @@
 
 
 
-.container {
-  display: grid;
-  grid-template-columns: 57% 43%;
-  grid-template-rows: auto;
-  grid-template-areas:
-  'a b';
-   height: 95vh;
-	gap: 20px;
-	
-
-}
 
 
 
